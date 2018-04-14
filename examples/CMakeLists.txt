@@ -1,0 +1,3 @@
+add_subdirectory(concurrent_hash_map/count_strings)
+add_subdirectory(GettingStarted/sub_string_finder)
+add_subdirectory(test_all/fibonacci)

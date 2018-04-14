@@ -84,3 +84,8 @@ CMakeFiles/
 .svn
 crash*
 *.tmp
+/cmake-build-debug/
+/build64_release/
+/.Building.lock
+/.sconsign.dblite
+/blade-bin
